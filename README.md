@@ -16,5 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Dependencies
-english_words: ^4.0.0
-provider: ^6.0.0
+- english_words: ^4.0.0
+- provider: ^6.0.0
+
+# How to run
+1. open > lib/main.dart
+2. press debug button on top-bar
